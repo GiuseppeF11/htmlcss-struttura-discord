@@ -87,7 +87,7 @@ html {
 */
 /* MODULO PARI */
 
-.pari {
+.scuro {
     background-color: rgb(212, 212, 212);
 }
 
@@ -103,7 +103,7 @@ html {
 
 /* MODULO DISPARI */
 
-.dispari {
+.chiaro {
     background-color: white;
     flex-direction: row-reverse;
 }
